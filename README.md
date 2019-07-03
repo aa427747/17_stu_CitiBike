@@ -1,2 +1,2 @@
 # 17_stu_CitiBike
-Leaflet In-class Mapping project
+Homework, Unit 17 - JavaScript Leaflet In-class Mapping project
